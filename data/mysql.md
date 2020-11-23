@@ -1,0 +1,4 @@
+# MySQL
+Source Jurnal: [ Sistem Informasi Data Penduduk Pada Desa Bogoharjo Keccamatan Ngadirojo Kabupaten Pacitan](https://academic.microsoft.com/paper/1534058046/citedby/search?q=Sistem%20Informasi%20Data%20Penduduk%20Pada%20Desa%20Bogoharjo%20Keccamatan%20Ngadirojo%20Kabupaten%20Pacitan&qe=RId%253D1534058046&f=&orderBy=0)
+
+MySQL sebenarnya merupakan turunan salah satu konsep utama dalam basis data yang telah ada sebelumnya; SQL (Structured Query Language). SQL adalah sebuah konsep pengoperasian basis data, terutama untuk pemilihan atau seleksi dan pemasukan data yang memungkinkan pengoperasian data dikerjakan dengan mudah secara otomatis (Alan Nur Aditya, 2011:61).

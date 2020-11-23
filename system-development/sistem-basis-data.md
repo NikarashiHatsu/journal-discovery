@@ -1,0 +1,4 @@
+# Sistem Basis Data
+Source Jurnal: [ Sistem Informasi Data Penduduk Pada Desa Bogoharjo Keccamatan Ngadirojo Kabupaten Pacitan](https://academic.microsoft.com/paper/1534058046/citedby/search?q=Sistem%20Informasi%20Data%20Penduduk%20Pada%20Desa%20Bogoharjo%20Keccamatan%20Ngadirojo%20Kabupaten%20Pacitan&qe=RId%253D1534058046&f=&orderBy=0)
+
+Sistem basis data adalah suatu sistem menyusun dan mengelola record menggunakan computer untuk menyimpan atau merekam serta memelihara data operasional lengkap sebuah organisasi atau perusahaan sehingga mampu menyediakan informasi yang optimal yang diperlukan pemakai untuk proses pengambilan keputusan. (Linda Marlina, 2004:1).

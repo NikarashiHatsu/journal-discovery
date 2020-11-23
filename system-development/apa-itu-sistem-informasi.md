@@ -9,3 +9,6 @@ Informasi dapat didefinisikan sebagai hasil dari pengolahan data dalam suatu ben
 
 3. Pengertian Sistem Informasi
 Menurut (Hanif Al Fatta, 2007:10) berpendapat sistem informasi yang terdiri dari komponen-komponen di atas disebut dengan istilah blok bangunan (building block), yaitu blok masukkan (input block), blok model (model block), blok keluaran (output block), blok teknologi (technology block), dan blok kendali (control block). Sebagai suatu sistem, keenam blok tersebut masing-masing saling berinteraksi satu dengan yang lainnya membentuk satu kesatuan untuk mencapai sasarannya.
+
+4. Manfaat Sistem Informasi
+Dikutip dari jurnal [ Sistem Informasi Data Penduduk Pada Desa Bogoharjo Keccamatan Ngadirojo Kabupaten Pacitan](https://academic.microsoft.com/paper/1534058046/citedby/search?q=Sistem%20Informasi%20Data%20Penduduk%20Pada%20Desa%20Bogoharjo%20Keccamatan%20Ngadirojo%20Kabupaten%20Pacitan&qe=RId%253D1534058046&f=&orderBy=0), pada bagian **2.b. Kajian Pustaka**, disimpulkan bahwa Teknologi Informasi (Sistem Informasi) mampu mempercepat alur informasi data oleh pengguna.
